@@ -1,2 +1,2 @@
 # IBM_DataScience
-IBM Data Science course
+This repository covers the contents of IBM Data Science course
