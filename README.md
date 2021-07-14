@@ -1,2 +1,2 @@
-# DataScience_Projects
-This repository covers the contents of Data Science Projects
+# DataScience
+This contains all the data science related notes and Jupyter notebooks
